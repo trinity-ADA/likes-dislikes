@@ -1,0 +1,33 @@
+.central {
+    background-color: yellow;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+
+.thumpsup {
+    color: black;
+    background-color: orange;
+}
+
+.rope {
+    font-size: 15px;
+    color: blue;
+    font-weight: bold;
+}
+
+#delicious {
+    color: red;
+}
+
+.thumpsdown {
+    color: steelblue;
+    background-color: bisque;
+}
+
+.all {
+    font-weight: bolder;
+}
+
+#why {
+    color: brown;
+}
